@@ -11,7 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -23,11 +22,11 @@ This is a rating page that lets the user give a feedback (1-5 stars). After the 
 
 ### Screenshot
 
-![](./screenshot.jpg)
+(https://github.com/ilonka011/Responsive-Rating-Page/blob/main/Screen%20Shot%202022-11-22%20at%2010.05.31%20AM.png)
 
 ### Links
 
-- Solution URL:
+- Solution URL: 
 - Live Site URL: 
 
 ## My process
@@ -54,8 +53,8 @@ about WordPress.
 
 ## Author
 
-- Website - Elona Gorter (
-- Frontend Mentor - @ilonka011 (https://www.frontendmentor.io/profile/ilonka011)
+- Website - Elona Gorter (https://github.com/ilonka011);
+- Frontend Mentor - @ilonka011 (https://www.frontendmentor.io/profile/ilonka011);
 
 
 ## Acknowledgments
