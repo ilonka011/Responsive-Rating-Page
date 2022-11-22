@@ -26,8 +26,8 @@ This is a rating page that lets the user give a feedback (1-5 stars). After the 
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://ilonka011.github.io/Responsive-Rating-Page/;
+- Live Site URL: https://github.com/ilonka011/Responsive-Rating-Page;
 
 ## My process
 
