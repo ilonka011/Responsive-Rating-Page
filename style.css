@@ -1,0 +1,120 @@
+html {
+    font-family: 'Overpass', Georgia, sans-serif;
+    background: hsl(216, 12%, 8%);
+}
+
+.svg-pic {
+    background: hsl(213, 19%, 18%);
+    max-width: 90vw;
+    margin: auto;
+    padding: 30px;
+    border-radius: 12px;
+}
+
+h1 {
+    color: white;
+    font-weight: 400;
+}
+
+svg {
+    padding-top: 10px;
+}
+
+p {
+    color: hsl(217, 12%, 63%);
+}
+
+button {
+    background: hsl(25, 97%, 53%);
+    color: white;
+    border: none;
+    border-radius: 25px;
+    width: 100%;
+    height: 40px;
+    text-transform:uppercase;
+    font-weight: 500;
+    letter-spacing: 3px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+button:active {
+    background: white;
+    color: hsl(25, 97%, 53%);
+    opacity: 100%;
+}
+
+.flex-container {
+    display: flex;
+    gap: 30px;
+}
+
+.buttons {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background: hsla(213, 10%, 23%, 70%);
+    box-sizing: border-box;
+    padding-left: 15px;
+    cursor: pointer;
+}
+
+.buttons:hover {
+  opacity: 50%;
+}
+
+.buttons:active {
+  background: hsl(25, 97%, 53%);
+  color: white;
+  opacity: 100%;
+}
+
+.hidden {
+    background: hsl(213, 19%, 18%);
+    max-width: 80vw;
+    margin: auto;
+    padding: 30px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hh1 {
+    color: white;
+    font-weight: 400;
+}
+
+.hp {
+    color: hsl(217, 12%, 63%);
+    text-align: center;
+}
+
+.hbtn {
+    color: hsl(25, 97%, 53%);
+    background: hsla(213, 10%, 23%, 70%);
+    border: none;
+    border-radius: 25px;
+    width: 50%;
+    height: 30px;
+    text-transform:uppercase;
+    font-weight: 500;
+    letter-spacing: 3px;
+    margin-top: 30px; 
+    display: block;
+}
+
+.hidden {
+    display: none;
+}
+
+@media screen and (min-width: 375px) and (max-width: 1000px) {
+
+}
+
+@media screen and (min-width: 1000px) and (max-width: 1440px) {
+   .container {
+    max-width: 25vw;
+    margin: 250px auto;
+   }
+} 
