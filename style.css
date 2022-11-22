@@ -78,6 +78,7 @@ button:active {
     display: flex;
     flex-direction: column;
     align-items: center;
+    display: none;
 }
 
 .hh1 {
@@ -104,16 +105,12 @@ button:active {
     display: block;
 }
 
-.hidden {
-    display: none;
-}
-
 @media screen and (min-width: 375px) and (max-width: 1000px) {
 
 }
 
 @media screen and (min-width: 1000px) and (max-width: 1440px) {
-   .container {
+   .rating {
     max-width: 25vw;
     margin: 250px auto;
    }
