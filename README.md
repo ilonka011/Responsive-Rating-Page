@@ -14,11 +14,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
-This is a rating page that lets the user give a feedback (1-5 stars). After the rating, the 'thank you' note is suppossed to show up which will contain a small message that also includes the rating itself. 
+This is a rating page that lets the user give a feedback (1-5 stars). After the rating, the 'thank you' note is suppossed to show up which will contain a small message that also includes the rating itself. There are quite a few mistakes and I will have to either fix them or create new project and delete this mini-project.
 
 ### Screenshot
 
