@@ -10,6 +10,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
+  - [Things to improve] (#things-to-improve)
   - [Continued development](#continued-development)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -43,6 +44,10 @@ This is a rating page that lets the user give a feedback (1-5 stars). After the 
 I learned how to use JavaScript in a way that would make the result of someone rating the service unique depending on their rating. 
 I also learned that it is a bit more complicated than I thought (for me especially since I am not very familiar with JavaScript 
 and started learning it not that long ago). 
+
+### Things to improve 
+I should review the padding and similar topics. 
+Also, the function side of the thing is horrible; so gotta work on that one.
 
 ### Continued development
 
